@@ -3,7 +3,7 @@ This branch contains the code for tensorflow2 and Vitis-AI quantization
 
 The vitis-ai.pptx explains how to set up the environment for vitis-ai 3.0 as well as vmware 17.0
 
-There are 3 datasets data test are used for training and testing the model in CNN
+There are 2 datasets data test are used for training and testing the model in CNN
 
 Calib_data is used to quantize the trained tensorflow2 model in combination with the quantization code in test.py
 
